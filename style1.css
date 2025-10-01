@@ -576,3 +576,61 @@ span {
         font-size: 50%;
     }
 }
+/* Join Us Section */
+.join {
+  padding: 80px 10%;
+  text-align: center;
+  background: #111;
+  color: #fff;
+}
+
+.join .heading {
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+}
+
+.join-container {
+  max-width: 700px;
+  margin: auto;
+  background: #1c1c1c;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(255, 77, 90, 0.6);
+}
+
+.join-form .input-box {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.join-form input,
+.join-form select,
+.join-form textarea {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+
+.join-form textarea {
+  resize: none;
+}
+
+.join-form .btn {
+  margin-top: 20px;
+  display: inline-block;
+  background: #ff4d5a;
+  color: #fff;
+  padding: 12px 25px;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.join-form .btn:hover {
+  background: #e13e4a;
+}
