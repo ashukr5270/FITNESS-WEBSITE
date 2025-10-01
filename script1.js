@@ -67,4 +67,4 @@ function nextReview() {
 if (reviews.length > 0) {
   showReview(currentReview);
   setInterval(nextReview, 5000);
-}
+}           
