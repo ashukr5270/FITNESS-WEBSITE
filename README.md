@@ -39,10 +39,10 @@ Project Description Points:
 
 
 
- Objective:
+    Objective:
 
- Enhance brand visibility and professional image of the fitness center.
+    Enhance brand visibility and professional image of the fitness center.
 
- Provide an interactive platform for employees to learn, book, and engage with fitness services.
+    Provide an interactive platform for employees to learn, book, and engage with fitness services.
 
- Promote health awareness and client engagement efficiently.
+    Promote health awareness and client engagement efficiently.
