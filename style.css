@@ -144,7 +144,6 @@ span {
 
 
 .home-img::before {
-    content: 'FIT';
     position: absolute;
     top: 10%;
     left: 15%;
@@ -646,4 +645,5 @@ span {
 
 .join-form .btn:hover {
     background: #e13e4a;
+
 }
