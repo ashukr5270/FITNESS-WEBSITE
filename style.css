@@ -142,20 +142,6 @@ span {
     width: 65vw;
 }
 
-
-.home-img::before {
-    position: absolute;
-    top: 10%;
-    left: 15%;
-    transform: translateX(-50%);
-    font-size: 20rem;
-    font-weight: 400;
-    line-height: 20rem;
-    color: var(--text-color);
-    opacity: 0.1;
-    z-index: -1;
-}
-
 .home-content p {
     font-size: 1.6rem;
     margin-bottom: 2rem;
@@ -647,3 +633,4 @@ span {
     background: #e13e4a;
 
 }
+
